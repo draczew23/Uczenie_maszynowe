@@ -1,0 +1,1 @@
+git clone https://github.com/akalinow/Uczenie_maszynowe/tree/2022_2023_solutions
